@@ -1,0 +1,7 @@
+skeleton.png
+	size: 300, 976
+	filter: Linear, Linear
+	pma: true
+anh
+	bounds: 2, 2, 295, 970
+	offsets: 15, 16, 325, 1000
